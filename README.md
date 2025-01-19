@@ -1,5 +1,5 @@
 # Hey there! My name's Ashe. 
-I'm the CEO of [Moose Interactive Entertainment](https://mooseinteractive.co.uk) and [Sweepy](https://sweepy.uk). 
+I'm the CEO of [Moose Interactive Entertainment](https://mooseinteractive.co.uk) and I've founded/funded projects like [Sweepy](https://sweepy.uk) and [GearBound](https://gearbound.net). 
 
 ## Projects
 I've worked on many projects, such as:
