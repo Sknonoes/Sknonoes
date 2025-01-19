@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! My name's Ashe. 
+I'm the CEO of [Moose Interactive Entertainment](https://mooseinteractive.co.uk) and [Sweepy](https://sweepy.uk). 
 
-<!--
-**Sknonoes/Sknonoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+I've worked on many projects, such as:
 
-Here are some ideas to get you started:
+- [Moose Interactive Entertainment](https://www.mooseinteractive.co.uk)
+- [Sweepy](https://sweepy.uk)
+- [GearBound](https://gearbound.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Spotify
+If you're curious about what I'm listening to right now, you can find out here!
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ct7kikde7umadwmozh74yj7lim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ct7kikde7umadwmozh74yj7lim&redirect=true)
